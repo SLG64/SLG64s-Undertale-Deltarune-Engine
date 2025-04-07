@@ -3,12 +3,12 @@
 
 Welcome! 
   
-  This is an engine that is being built into Game Maker LTS. At first, it was just going to be a fan game (Please don't steal it's name from me!!!) that I was working on for fun. Now it's public for anyone to use! This engine is meant for anyone who wants to build a Fan game / AU for Undertale or Deltarune. This project aims to have any of the mechanics close to the original game's mechanics, but with a fresh dose of whatever else is possible. I haven't done much work on it yet, but expect more to come! I'll explain more once it has more progress done on it.
+  This is an engine that is being built into Game Maker LTS. At first, it was just going to be a fan game (Please don't steal it's name from me!!! It's goofy, and I like it.) that I was working on for fun. Now it's public for anyone to use! This engine is meant for anyone who wants to build a Fan game / AU for Undertale or Deltarune. This project aims to have any of the mechanics close to the original game's mechanics, but with a fresh dose of whatever else is possible. I haven't done much work on it yet, but expect more to come! I'll explain more once it has more progress done on it.
 
 # Current Progress
-At the moment, overworld "walking" is done. I plan on adding sprinting, enemy encounters, and more for these AUs.
+At the moment, overworld "walking" is done. I plan on adding sprinting, enemy encounters, and more for these AUs. I also got a Start-Up screen that anyone can put their logo in, and it includes a credit for me.
 
-I have many many souls complete, and one custom one! Here, lemme demonstrate:
+I also have many souls complete, and there are custom ones! Here, lemme demonstrate:
 
 ### DETERMINATION SOUL
 The Soul of Determination, or just the default one, is pretty simple to make, actually. This soul has no special abilities, but is nice to have for regular fights. It's movement consists of normal horizontal and vertical movement, using the arrow keys.
@@ -23,7 +23,7 @@ This was the second soul I worked on, especially since it's the second soul used
 
 ### KINDNESS SOUL
 
-PK Fire! Oh wait, I missread the name. The Kindness soul has a sheild that is functional, but is highly buggy. It starts out on the side with the sprite for the top on it's side, which I don't know when I'll fix it. However, I have made it bounce the Justice Soul's projectiles off of it's sheild. However, if angled properly, it will bounc it back and forth, basically storing it. You can do this with multiple of them too!
+PK Fire! Oh wait, I missread the name. The Kindness soul has a sheild that is functional, but is highly buggy. It starts out on the side with the sprite for the top on it's side, which I don't know when I'll fix it. However, I have made it bounce the Justice Soul's projectiles off of it's sheild. However, if angled properly, it will bounce it back and forth, basically storing it. You can do this with multiple of them too!
 
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/df751329-efec-4e8e-9083-3d7ea796fcf7)
 ![dfff33e5-9aa4-463c-8f74-ce51c37c0fe5](https://github.com/user-attachments/assets/0252a0a7-d2a0-4cad-80dc-587c72a34030)
@@ -39,13 +39,20 @@ Still working on this, but my general version has a dash ability that would dest
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/2cce2168-a1f0-4024-a162-478da7af4353)
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/5aed7a88-6c28-41e1-b699-ea0c5b448690)
 
+### SWITCH SOUL
+Welp, guess we are switching some things up. The Switch soul, introduced on the Nintendo Switch for the Mad Mew Mew fight (Hence the name), is able to be two seperate halves, each controllable by their own. The Red half is controlled using the WASD keys, and the Blue half uses the Up, Down, Left, Right keys for movement. When they are idle, they snap back to the Origin, the resting place for the soul to refuse to fight.
+
+![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/93f1ba51-d216-454b-a55b-300f80b936e8)
+![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/59d33228-e6eb-42bc-b71e-ee9089e6fba7)
+
+
 ### ACCELERATION SOUL (CUSTOM SOUL TYPAGE)
 This soul is pretty much exactly like the Determination Soul, except it speeds up when it starts to move. Also, its horizontal movement is slower than the original's. Not much more about it.
 
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/31d1edfe-b967-41dc-b99c-c2167010cd01)
 
 ### PATIENCE SOUL (Deltatraveller)
-This is probably the only version of the Patience Soul that has an ability (of which I know of) that would be nice. It has a parrying ability, which is used in the Porky Boss Fight (Earthbound). For now, I am going to leave it as a custom, and I will work on my own Patience Soul ability. As of now, there is no work for this soul.
+This is probably the only version of the Patience Soul that has an ability (of which I know of) that would be nice. It has a parrying ability, which is used in the Porky Boss Fight (Earthbound). For now, I should also mention that it's slower than the regular souls. I am going to leave it as a custom, and I will work on my own Patience Soul ability. As of now, there is no work for this soul.
 
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/c7834c67-de0d-44bd-87fb-59eb80b199e0)
 
@@ -53,7 +60,7 @@ This is probably the only version of the Patience Soul that has an ability (of w
 Here is my list of things that need to be done, that will come out later on.
 
  ### Souls
- I need to finish the Bravery Soul, Deltatraveller's Patience Soul, the Preserverance Soul, and try the Nintendo Switch's Mad Mew Mew soul (Switch Soul makes more sense). I do plan on adding Accelerating types for most of the souls, just in case. I will also make any extra soul types that I find and take intrest into.
+ I need to finish the Bravery Soul, Deltatraveller's Patience Soul, and the Preserverance Soul. I do plan on adding Accelerating types for most of the souls, just in case. I will also make any extra soul types that I find and take intrest into.
 
  ### Player
  Frisk and Kris, both for Undertale and Deltarune games. I also need to implement Susie and Ralsei for Kris.
