@@ -11,7 +11,7 @@ At the moment, overworld "walking" is done. I plan on adding sprinting, enemy en
 I also have many souls complete, and there are custom ones! Here, lemme demonstrate:
 
 ### DETERMINATION SOUL
-The Soul of Determination, or just the default one, is pretty simple to make, actually. This soul has no special abilities, but is nice to have for regular fights. It's movement consists of normal horizontal and vertical movement, using the arrow keys.
+The Soul of Determination, or just the default one, is pretty simple to make, actually. This soul has no special abilities, but is nice to have for regular fights. Its movement consists of normal horizontal and vertical movement, using the arrow keys.
 
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/85e0f8f2-894f-4a3c-8642-fa0dda986672)
 
@@ -23,7 +23,7 @@ This was the second soul I worked on, especially since it's the second soul used
 
 ### KINDNESS SOUL
 
-PK Fire! Oh wait, I missread the name. The Kindness soul has a sheild that is functional, but is highly buggy. It starts out on the side with the sprite for the top on it's side, which I don't know when I'll fix it. However, I have made it bounce the Justice Soul's projectiles off of it's sheild. However, if angled properly, it will bounce it back and forth, basically storing it. You can do this with multiple of them too!
+PK Fire! Oh wait, I misread the name. The Kindness soul has a shield that is functional, but is highly buggy. It starts out on the side with the sprite for the top on it's side, which I don't know when I'll fix it. However, I have made it bounce the Justice Soul's projectiles off of its shield. However, if angled properly, it will bounce it back and forth, basically storing it. You can do this with multiple of them too!
 
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/df751329-efec-4e8e-9083-3d7ea796fcf7)
 ![dfff33e5-9aa4-463c-8f74-ce51c37c0fe5](https://github.com/user-attachments/assets/0252a0a7-d2a0-4cad-80dc-587c72a34030)
@@ -34,13 +34,13 @@ This soul was pretty easy to make, just get rid of the down key's functionality,
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/076eea81-4a8c-4638-82cb-beb87a5ff861)
 
 ### BRAVERY SOUL
-Still working on this, but my general version has a dash ability that would destroy attacks, but has a 5 second cooldown. I am having an issue with the vertical and horizontal dashing to be correct. Anyways, the soul turns into a darker color, and will revert back to it's original color once it's re-charged.
+Still working on this, but my general version has a dash ability that would destroy attacks, and has a 5 second cooldown. I am having an issue with the vertical and horizontal dashing to be correct. Anyways, the soul turns into a darker color, and will revert back to its original color once it's re-charged.
 
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/2cce2168-a1f0-4024-a162-478da7af4353)
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/5aed7a88-6c28-41e1-b699-ea0c5b448690)
 
 ### SWITCH SOUL
-Welp, guess we are switching some things up. The Switch soul, introduced on the Nintendo Switch for the Mad Mew Mew fight (Hence the name), is able to be two seperate halves, each controllable by their own. The Red half is controlled using the WASD keys, and the Blue half uses the Up, Down, Left, Right keys for movement. When they are idle, they snap back to the Origin, the resting place for the soul to refuse to fight.
+Welp, guess we are switching some things up. The Switch soul, introduced on the Nintendo Switch for the Mad Mew Mew fight (hence the name), is able to be two separate halves, each controllable by their own. The Red half is controlled using the WASD keys, and the Blue half uses the Up, Down, Left, Right keys for movement. When they are idle, they snap back to the Origin, the resting place for the soul to refuse to fight.
 
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/93f1ba51-d216-454b-a55b-300f80b936e8)
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/59d33228-e6eb-42bc-b71e-ee9089e6fba7)
@@ -56,11 +56,18 @@ This is probably the only version of the Patience Soul that has an ability (of w
 
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/c7834c67-de0d-44bd-87fb-59eb80b199e0)
 
+### EXTRAS PLANNED
+I do have more souls planned for it, mainly because I find it fun to make them. I know a few souls that would be interesting to implement, such as the soul used in The Final Experiment, an Undertale Fan-Game/AU that has you fight W.D. Gaster (presumably). I do have an idea for a slower version of the Determination soul, maybe with a new ability or downside, but I don't know if that is exactly what I want for it.
+
+![New Piskel-2 png (18)](https://github.com/user-attachments/assets/bd43318d-d561-4978-9b8c-15d1acc319ce)
+![New Piskel-3 png (11)](https://github.com/user-attachments/assets/a6557eff-ba7a-4c1a-875f-78c8423978db)
+![New Piskel-4 png (5)](https://github.com/user-attachments/assets/54819f21-900a-4bb4-951d-4a66edf4f288)
+
 ## To-Do List:
 Here is my list of things that need to be done, that will come out later on.
 
  ### Souls
- I need to finish the Bravery Soul, Deltatraveller's Patience Soul, and the Preserverance Soul. I do plan on adding Accelerating types for most of the souls, just in case. I will also make any extra soul types that I find and take intrest into.
+ I need to finish the Bravery Soul, Deltatraveller's Patience Soul, and the Perseverance Soul. I do plan on adding Accelerating types for most of the souls, just in case. I will also make any extra soul types that I find and take intrest into.
 
  ### Player
  Frisk and Kris, both for Undertale and Deltarune games. I also need to implement Susie and Ralsei for Kris.
@@ -85,3 +92,5 @@ Now that I have that all out of the way, have fun using this beta version of the
 <sup><sub>sans sprites made by me</sub></sup>
 
 Thanks for checking this out! Have Fun!
+
+
