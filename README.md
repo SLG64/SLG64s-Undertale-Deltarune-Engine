@@ -8,7 +8,7 @@ Welcome!
 # Current Progress
 At the moment, overworld "walking" is done. I plan on adding sprinting, enemy encounters, and more for these AUs. I also got a Start-Up screen that anyone can put their logo in, and it includes a credit for me.
 
-I also have many souls complete, and there are custom ones! Here, lemme demonstrate:
+I also have many souls complete, and there are custom ones! Allow me to explain:
 
 ### DETERMINATION SOUL
 The Soul of Determination, or just the default one, is pretty simple to make, actually. This soul has no special abilities, but is nice to have for regular fights. Its movement consists of normal horizontal and vertical movement, using the arrow keys.
@@ -57,7 +57,7 @@ This is probably the only version of the Patience Soul that has an ability (of w
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/c7834c67-de0d-44bd-87fb-59eb80b199e0)
 
 ### EXTRAS PLANNED
-I do have more souls planned for it, mainly because I find it fun to make them. I know a few souls that would be interesting to implement, such as the soul used in The Final Experiment, an Undertale Fan-Game/AU that has you fight W.D. Gaster (presumably). I do have an idea for a slower version of the Determination soul, maybe with a new ability or downside, but I don't know if that is exactly what I want for it.
+I do have more souls planned for it, mainly because I find it fun to make them. I know a few souls that would be interesting to implement, such as the soul used in The Final Experiment, an Undertale Fan-Game/AU that has you fight W.D. Gaster (presumably). I will provide code for the basic movement for the souls, especially for creating new souls.
 
 ![New Piskel-2 png (18)](https://github.com/user-attachments/assets/bd43318d-d561-4978-9b8c-15d1acc319ce)
 ![New Piskel-3 png (11)](https://github.com/user-attachments/assets/a6557eff-ba7a-4c1a-875f-78c8423978db)
