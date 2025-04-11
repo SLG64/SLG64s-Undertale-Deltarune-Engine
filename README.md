@@ -39,6 +39,12 @@ Still working on this, but my general version has a dash ability that would dest
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/2cce2168-a1f0-4024-a162-478da7af4353)
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/5aed7a88-6c28-41e1-b699-ea0c5b448690)
 
+### PERSEVERANCE SOUL
+Working decently well! This soul is able to jump between webs, and move left and right on them! I still need to fix how far the soul is able to go before it detects that it isn't on the web any longer.
+
+![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/75dc3e17-0e0d-48b1-b24c-45e5f5b375ba)
+![43dda46c-8bce-4755-ad72-0e8b8ad9dc7d](https://github.com/user-attachments/assets/b2e9f578-c478-49d3-9b0c-b610f7ed2711)
+
 ### SWITCH SOUL
 Welp, guess we are switching some things up. The Switch soul, introduced on the Nintendo Switch for the Mad Mew Mew fight (hence the name), is able to be two separate halves, each controllable by their own. The Red half is controlled using the WASD keys, and the Blue half uses the Up, Down, Left, Right keys for movement. When they are idle, they snap back to the Origin, the resting place for the soul to refuse to fight.
 
@@ -50,6 +56,9 @@ Welp, guess we are switching some things up. The Switch soul, introduced on the 
 This soul is pretty much exactly like the Determination Soul, except it speeds up when it starts to move. Also, its horizontal movement is slower than the original's. Not much more about it.
 
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/31d1edfe-b967-41dc-b99c-c2167010cd01)
+
+
+## Planned
 
 ### PATIENCE SOUL (Deltatraveller)
 This is probably the only version of the Patience Soul that has an ability (of which I know of) that would be nice. It has a parrying ability, which is used in the Porky Boss Fight (Earthbound). For now, I should also mention that it's slower than the regular souls. I am going to leave it as a custom, and I will work on my own Patience Soul ability. As of now, there is no work for this soul.
@@ -67,7 +76,7 @@ I do have more souls planned for it, mainly because I find it fun to make them. 
 Here is my list of things that need to be done, that will come out later on.
 
  ### Souls
- I need to finish the Bravery Soul, Deltatraveller's Patience Soul, and the Perseverance Soul. I do plan on adding Accelerating types for most of the souls, just in case. I will also make any extra soul types that I find and take intrest into.
+ I need to finish the Bravery Soul, Deltatraveller's Patience Soul, and Grazing Souls. I do plan on adding Accelerating types for most of the souls, just in case. I will also make any extra soul types that I find and take intrest into.
 
  ### Player
  Frisk and Kris, both for Undertale and Deltarune games. I also need to implement Susie and Ralsei for Kris.
