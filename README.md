@@ -43,7 +43,6 @@ Still working on this, but my general version has a dash ability that would dest
 Working decently well! This soul is able to jump between webs, and move left and right on them! I still need to fix how far the soul is able to go before it detects that it isn't on the web any longer.
 
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/75dc3e17-0e0d-48b1-b24c-45e5f5b375ba)
-![43dda46c-8bce-4755-ad72-0e8b8ad9dc7d](https://github.com/user-attachments/assets/b2e9f578-c478-49d3-9b0c-b610f7ed2711)
 
 ### SWITCH SOUL
 Welp, guess we are switching some things up. The Switch soul, introduced on the Nintendo Switch for the Mad Mew Mew fight (hence the name), is able to be two separate halves, each controllable by their own. The Red half is controlled using the WASD keys, and the Blue half uses the Up, Down, Left, Right keys for movement. When they are idle, they snap back to the Origin, the resting place for the soul to refuse to fight.
