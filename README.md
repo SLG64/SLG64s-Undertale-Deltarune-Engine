@@ -5,6 +5,8 @@ Welcome!
   
   This is an engine that is being built into Game Maker LTS. At first, it was just going to be a fan game (Please don't steal it's name from me!!! It's goofy, and I like it.) that I was working on for fun. Now it's public for anyone to use! This engine is meant for anyone who wants to build a Fan game / AU for Undertale or Deltarune. This project aims to have any of the mechanics close to the original game's mechanics, but with a fresh dose of whatever else is possible. I haven't done much work on it yet, but expect more to come! I'll explain more once it has more progress done on it.
 
+I am currently doing this alone, and it is relitively difficult. If you would like to help me fix bugs and such, just reach out to me.
+
 # Current Progress
 At the moment, overworld "walking" is done. I plan on adding sprinting, enemy encounters, and more for these AUs. I also got a Start-Up screen that anyone can put their logo in, and it includes a credit for me.
 
