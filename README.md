@@ -59,6 +59,9 @@ This soul is pretty much exactly like the Determination Soul, except it speeds u
 ![c933323c-074a-478b-82b5-7a917e65d601](https://github.com/user-attachments/assets/31d1edfe-b967-41dc-b99c-c2167010cd01)
 
 
+### TILESETS
+I have the majority of the ruins tileset built out, and am currently working on finishing it up.
+
 ## Planned
 
 ### PATIENCE SOUL (Deltatraveller)
@@ -83,7 +86,7 @@ Here is my list of things that need to be done, that will come out later on.
  Frisk and Kris, both for Undertale and Deltarune games. I also need to implement Susie and Ralsei for Kris.
 
  ### Tilesets
- A tile set for defaults. Yeah...
+Finish up the ruins tileset and start working on an instruction page in the wiki for how to make your very own tile set!
 
  ### Sounds
  I need to figure these out, but I will probably just use the default sounds when I get it to work.
