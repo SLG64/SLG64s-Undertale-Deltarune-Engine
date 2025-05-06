@@ -1,14 +1,18 @@
 # SLG64's Undertale/Deltarune Engine
-## An Undertale/Deltarune Engine that I decided to work on because I wanted to slack off on my other projects I have been working on.
+### An Undertale/Deltarune Engine that I decided to work on because I wanted to slack off on my other projects I have been working on.
 
 Welcome! 
   
-  This is an engine that is being built into Game Maker LTS. At first, it was just going to be a fan game (Please don't steal it's name from me!!! It's goofy, and I like it.) that I was working on for fun. Now it's public for anyone to use! This engine is meant for anyone who wants to build a Fan game / AU for Undertale or Deltarune. This project aims to have any of the mechanics close to the original game's mechanics, but with a fresh dose of whatever else is possible. I haven't done much work on it yet, but expect more to come! I'll explain more once it has more progress done on it.
+  This is an engine that is being built into Game Maker LTS. At first, it was just going to be a fan game that I was working on for fun. Now it's public for anyone to use! This engine is meant for anyone who wants to build a Fan game / AU for Undertale or Deltarune. This project aims to have any of the mechanics close to the original game's mechanics, but with a fresh dose of whatever else is possible. I haven't done much work on it yet, but expect more to come! I'll explain more once it has more progress done on it.
 
 I am currently doing this alone, and it is relatively difficult. If you would like to help me fix bugs and such, just reach out to me.
 
+NOTE: If you are going to change an asset, you must have some background knowledge of how Game Maker functions, or you can use the manual here:
+
+https://manual.gamemaker.io/
+
 # Current Progress
-At the moment, overworld "walking" is done. I plan on adding sprinting, enemy encounters, and more for these AUs. I also got a Start-Up screen that anyone can put their logo in, and it includes a credit for me.
+At the moment, overworld movement is done. I got a Start-Up screen that anyone can put their logo in, and it includes a credit for me.
 
 I also have many souls complete, and there are custom ones! Allow me to explain:
 
